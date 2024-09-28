@@ -1,5 +1,6 @@
 ## What is an Arduino? 
 <img src="/imagesv1/arduino.jpg" alt="arduino-hardware" width="800px">
+
 <p>
   An Arduino is a small and simple computer that allows you to create projects requiring minimal computing power. It takes inputs and converts them into outputs. For example, imagine pressing a big red button—   
   what might happen? In my mind, I imagine a nuclear rocket launching, just like in the movies. 
