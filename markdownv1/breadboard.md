@@ -1,4 +1,5 @@
 ## What is a breadboard? 
+<hr>
 
 <img src="/imagesv1/breadboard.jpg" alt="breadboard" width="800px">
 <p>
