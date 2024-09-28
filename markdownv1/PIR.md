@@ -12,5 +12,8 @@
 
 <img src="/imagesv1/topart.jpg" alt="top-part-of-arduino" width="800px">
 <p>
-  The component on the left side contains 2 electrodes in that little square. But what is that and why? 
+  The component on the left side is a <b> Pyroelectric sensor, </b> the main component that detects infrared radiation. Inside the sensor are <b> 2 electrodes </b> connected to the pyroelectric material. Once an object with IR radiation hits the first one it says "this got a lil heat" then once it hits the second one it says "oh this is real, i got to notify this to someone". That "someone" can be a relay that controls a motor or a microcontroller on a arduino which is essentially the brain to process information.   
+</p>
+<p>
+  The component on the right side is called a <b> Fresnel Lens. </b> It's job is to focus the incoming IR radiation from a wide view around it and focus it onto the pyroelectric sensor beneath it. As you can see, there are little hexagons on it which are tiny lenses, allowing it to capture IR radiation from multiple points and concentrate it onto the sensor.
 </p>
