@@ -17,3 +17,11 @@
 <p>
   The component on the right side is called a <b> Fresnel Lens. </b> It's job is to focus the incoming IR radiation from a wide view around it and focus it onto the pyroelectric sensor beneath it. As you can see, there are little hexagons on it which are tiny lenses, allowing it to capture IR radiation from multiple points and concentrate it onto the sensor.
 </p>
+
+## Side Parts
+<hr>
+
+<img src="/imagesv1/potentiometers.jpg" alt="time-delay-+-range" width="800px">
+<p>
+  
+</p>
