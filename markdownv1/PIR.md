@@ -26,5 +26,11 @@
   A <b> Potentiometer </b> is essentially an adjustable resistor. But what even is a resistor? A resistor is a device used to limit the flow of electrical current in a circuit. This is important because many components in a circuit might receive too much current, which could lead to their failure. By using resistors to balance the load, you can efficiently control and achieve the desired performance of various components in the circuit.
 </p> 
 <p>
-  Now that we have this in mind, some resistors are <b> fixed </b> and some are <b> variable </b> and in this case, we are using a potentiometer which is a variable resistor. The <b> left </b> one will be used to adjust the amount of time it takes the PIR sensor to detect IR radiation. 
+  Now that we have this in mind, some resistors are <b> fixed </b> and some are <b> variable </b> and in this case, we are using a potentiometer which is a variable resistor.
+</p>
+<p>
+  The <b> left </b> is used to adjust how long you want the sensor to stay on. If you turn it counter-clockwise, it decreases time delay and if you turn it clockwise, it increases time delay. 
+</p>
+<p>
+   The <b> right </b> one is used to adjust the range sensitivity. This means that if you turn the potentiometer counter-clockwise, it will detect closer: limiting the range. If you turn it clockwise, it will    detect further: increasing the range. 
 </p>
