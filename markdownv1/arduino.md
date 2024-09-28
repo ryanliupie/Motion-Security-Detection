@@ -1,4 +1,5 @@
 ## What is an Arduino?
+<hr>
 
 <img src="/imagesv1/arduino.jpg" alt="arduino-hardware" width="800px">
 <p>
