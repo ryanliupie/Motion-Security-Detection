@@ -20,3 +20,5 @@ motionStatus = digitalRead(pirPin); //This reads if the sensor is detecting moti
   Serial.println("Motion Ended"); 
  }
 } 
+
+//testing 123
