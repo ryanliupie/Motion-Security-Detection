@@ -1,4 +1,4 @@
-# Spotify-API-Motion-Security-Detection 🎧 🛡️
+# Motion-Security-Detection 🎧 🛡️
 
 ## Welcome
 <p>
