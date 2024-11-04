@@ -11,4 +11,5 @@
 - <h3> <a href="/markdownv1/arduino.md"> Arduino </h3>
 - <h3> <a href="/markdownv1/breadboard.md"> Breadboard </h3>
 - <h3> <a href="/markdownv1/PIR.md"> PIR Sensor </h3>
+- <h3> <a href="/markdownv1/PIR.md"> MP3 Player </h3>
 - <h3> <a href="/markdownv1/Small-Parts.md"> Wiring & Add-Ons </h3>
