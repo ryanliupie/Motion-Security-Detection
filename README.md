@@ -12,4 +12,5 @@
 - <h3> <a href="/markdownv1/breadboard.md"> Breadboard </h3>
 - <h3> <a href="/markdownv1/PIR.md"> PIR Sensor </h3>
 - <h3> <a href="/markdownv1/mp3.md"> MP3 Player </h3>
+- <h3> <a href="/markdownv1/speaker.md"> Speaker </h3>
 - <h3> <a href="/markdownv1/Small-Parts.md"> Wiring & Add-Ons </h3>
