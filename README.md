@@ -2,7 +2,7 @@
 
 ## Welcome
 <p>
-  The goal of this project is to learn how to integrate hardware and software for security purposes. Specifically, it will detect motion from my dogs when they enter my room and trigger the playback of a selected song from an MP3 player trigged from a PIR sensor. Down below ⭭ you click on each markdown for the components used and the final outcome! 
+  The goal of this project is to learn how to integrate hardware and software for security purposes. Specifically, it will detect motion from my dogs when they enter my room, and trigger the playback of a selected song from an MP3 player,trigged from a PIR sensor. Down below ⭭ you click on each markdown for the components used and the final outcome.  
 </p>
 
 <hr>
